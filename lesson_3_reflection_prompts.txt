@@ -4,6 +4,7 @@ local?
 
 
 For example when I what to colaborate with other people.
+Ahora pongo este comentario en github directamente pero no en mi PC, porque eso es lo que me piden en el curso.
 
 
 Why might you want to always pull changes manually rather than having Git
